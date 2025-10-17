@@ -13,7 +13,15 @@
    
 5. Use Terraform apply to create the resources in your main.tf
 
+Main VPC
 <img width="1125" height="166" alt="Screenshot from 2025-10-17 09-27-39" src="https://github.com/user-attachments/assets/37977f34-f5c2-4b2c-897c-59c1975f4d4f" />
+
+Main Subnet
+<img width="1125" height="166" alt="Screenshot from 2025-10-17 09-27-48" src="https://github.com/user-attachments/assets/d976cf26-3e74-45ce-adbd-c0fe453f0d99" />
+
+Web-server EC2 instance.
+<img width="1077" height="141" alt="Screenshot from 2025-10-17 09-28-23" src="https://github.com/user-attachments/assets/2301f8a9-e92e-4a0a-8389-4cf05f64ce75" />
+
 
 
 
