@@ -23,6 +23,7 @@ Web-server EC2 instance.
 <img width="1077" height="141" alt="Screenshot from 2025-10-17 09-28-23" src="https://github.com/user-attachments/assets/2301f8a9-e92e-4a0a-8389-4cf05f64ce75" />
 
 Output of your resource.
+
 <img width="818" height="166" alt="Screenshot from 2025-10-17 10-24-49" src="https://github.com/user-attachments/assets/7299bb98-431e-4313-99b0-87e1ffb146de" />
 
 Ensure you use Terraform destroy to clean up your resoucres so that you don't run up your monthly AWS bills.
