@@ -1,7 +1,7 @@
-# Configure s3 backend with Terraform.
+# Configure s3 bucket backend with Terraform.
 
 ## Steps
-1. Create an s3 to store the Terraform state file.
+1. Create an s3 bucket to store the Terraform state file.
 <img width="1077" height="141" alt="Screenshot from 2025-10-17 09-28-23" src="https://github.com/user-attachments/assets/c9a302ea-d5e7-4c67-976e-0a1ece775c89" />
 
 2. Initialize your backend and create your resource in your main.tf.
